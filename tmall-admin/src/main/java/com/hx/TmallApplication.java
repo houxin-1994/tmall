@@ -17,5 +17,6 @@ public class TmallApplication
     public static void main(String[] args)
     {
         SpringApplication.run(TmallApplication.class, args);
+        System.out.println("hello,world");
     }
 }
